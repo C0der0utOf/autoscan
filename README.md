@@ -206,4 +206,4 @@ For security concerns, please see [SECURITY.md](docs/SECURITY.md).
 
 MIT License - see LICENSE file for details
 
-
+Made by Nick Kowslowski
